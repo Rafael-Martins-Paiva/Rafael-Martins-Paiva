@@ -2,8 +2,6 @@
 
 ### Olá, meu nome é Rafael Martins Paiva!
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=Rafael Martins Paiva&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
-
 ---
 
 ## 🚀 Minhas Skills
