@@ -1,8 +1,8 @@
 <div align="justify">
 
 ### Sobre mim
-Sou um **desenvolvedor full-stack freelancer**, com experiência em **sites, aplicações web e projetos SaaS**. Já atuei em projetos autorais, soluções sob demanda e participei de **hackathons**.
+Desenvolvedor Full Stack com experiência em backend e frontend.
 
-Tenho foco em **usabilidade, design e boas práticas**, transformando ideias em produtos digitais funcionais.
+Trabalho com Django, NestJS, Node.js (Express e Fastify), Next.js, React, RabbitMQ, Kafka e Docker.
 </div>
 
